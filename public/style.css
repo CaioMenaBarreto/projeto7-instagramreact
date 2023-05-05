@@ -207,6 +207,16 @@
   .post:last-child {
     margin-bottom: 18px;
   }
+
+  .white{
+    color: black;
+    border-radius: 100%;
+  }
+
+  .red{
+    color: red;
+    border-radius: 100%;
+  }
   
   .sidebar {
     padding-top: 24px;
